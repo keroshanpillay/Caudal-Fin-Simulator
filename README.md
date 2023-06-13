@@ -5,3 +5,9 @@
 To view the optimization, run "exp.py". This will run the function defined in "fish.py". To plot the data, use "plot.py". The simulation is computationally intensive. Considering this, the data from the trials has been included in the form of csv files. These files are actually what "plot.py" uses. If you have these files, there is no need to run "exp.py". 
 
 The figures generated from the optimization are also included for convenience. 
+
+# Some optimization plots
+
+(assets/Element Ratio_Shift_Error.png)
+(assets/Frequency_Amplitude_Element Ratio.png)
+assets/Frequency_Amplitude_Error.png
