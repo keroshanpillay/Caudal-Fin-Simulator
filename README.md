@@ -9,5 +9,7 @@ The figures generated from the optimization are also included for convenience.
 # Some optimization plots
 
 ![Ratio, Shift, Error](assets/Element Ratio_Shift_Error.png)
+
 ![Freq, Amp, Ratio](assets/Frequency_Amplitude_Element Ratio.png)
+
 ![Freq, Amp, Error](assets/Frequency_Amplitude_Error.png)
